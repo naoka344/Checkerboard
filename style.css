@@ -1,0 +1,40 @@
+body{
+    font-size: 18px;
+    background-color: rgb(245, 226, 200);
+    font-family: "Rubik", sans-serif;
+    text-align: center;
+}
+
+table{
+    height: 200px;
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.dark{
+    background-color: #788AA3;
+}
+
+.light{
+    background-color: #92B6B1;
+}
+
+.checkerboard{
+    height: 200px;
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 40px;
+}
+
+
+.box{
+    height: 40px;
+    width: 40px;
+    float: left;
+}
+
+.dh2{
+    margin-top: 50px;
+}
